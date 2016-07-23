@@ -85,7 +85,7 @@ Firebase 9.2.1 components available here and libraries you need to take:
 (https://github.com/dandar3/android-google-firebase-analytics-impl/archive/9.2.1.zip)
 [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_download_black_24dp.png" title="SVN tag URL (right-click  to copy location)" align="top" />]
 (https://github.com/dandar3/android-google-firebase-analytics-impl/tags/9.2.1)
-[android-google-play-services-analytics-impl]
+[android-firebase-services-analytics-impl]
 (https://github.com/dandar3/android-google-firebase-analytics-impl/tree/9.2.1)<br/>
 &#160;&#160;&#160;&#160;&#160;
 4. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" align="top" />]
@@ -129,7 +129,7 @@ Firebase 9.2.1 components available here and libraries you need to take:
 (https://github.com/dandar3/android-google-play-services-gass/tags/9.2.1)
 [android-google-play-services-gass]
 (https://github.com/dandar3/android-google-play-services-gass/tree/9.2.1)<br/>
-&#160;&#160;&#160;&#160
+&#160;&#160;&#160;
 10. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" align="top" />]
 (https://github.com/dandar3/android-support-v4/archive/24.1.1.zip)
 [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_download_black_24dp.png" title="SVN tag URL (right-click  to copy location)" align="top" />]
@@ -137,7 +137,7 @@ Firebase 9.2.1 components available here and libraries you need to take:
 [android-support-v4]
 (https://github.com/dandar3/android-support-v4/tree/9.2.1)<br/>
 &#160;&#160;&#160;
-10. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" align="top" />]
+11. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" align="top" />]
 (https://github.com/dandar3/android-support-annotations/archive/24.1.1.zip)
 [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_download_black_24dp.png" title="SVN tag URL (right-click  to copy location)" align="top" />]
 (https://github.com/dandar3/android-support-annotations/tags/24.1.1)
