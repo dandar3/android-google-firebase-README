@@ -8,7 +8,7 @@ https://firebase.google.com/docs/android/setup#available_libraries
 **Prerequisites**<br/>
 
 - Manual processing of `google-services.json` into `values.xml` and `global_tracker.xml`.<br/>
-  See https://developers.google.com/android/guides/google-services-plugin
+  See https://developers.google.com/android/guides/google-services-plugin#processing_the_json_file
 
 --
 
