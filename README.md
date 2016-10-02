@@ -14,7 +14,7 @@ https://firebase.google.com/docs/android/setup#available_libraries
 
 Firebase 9.4.0 components available here and libraries you need to take:
 
-#### Google Analytics
+#### Firebase Analytics
 &#160;&#160;&#160;&#160;&#160;
 1. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" align="top" />]
 (https://github.com/dandar3/android-google-firebase-analytics/archive/9.4.0.zip)
@@ -70,7 +70,7 @@ Firebase 9.4.0 components available here and libraries you need to take:
 [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_download_black_24dp.png" title="SVN tag URL (right-click  to copy location)" align="top" />]
 (https://github.com/dandar3/android-support-v4/tags/24.1.1)
 [android-support-v4]
-(https://github.com/dandar3/android-support-v4/tree/9.4.0)<br/>
+(https://github.com/dandar3/android-support-v4/tree/24.1.1)<br/>
 &#160;&#160;&#160;&#160;&#160;
 9. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" align="top" />]
 (https://github.com/dandar3/android-support-annotations/archive/24.1.1.zip)
@@ -79,7 +79,7 @@ Firebase 9.4.0 components available here and libraries you need to take:
 [android-support-annotations]
 (https://github.com/dandar3/android-support-annotations/tree/24.1.1)<br/>
 
-#### Google Ads
+#### Firebase Ads
 &#160;&#160;&#160;&#160;&#160;
 1. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" align="top" />]
 (https://github.com/dandar3/android-google-firebase-ads/archive/9.4.0.zip)
@@ -170,7 +170,7 @@ Firebase 9.4.0 components available here and libraries you need to take:
 [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_download_black_24dp.png" title="SVN tag URL (right-click  to copy location)" align="top" />]
 (https://github.com/dandar3/android-support-v4/tags/24.1.1)
 [android-support-v4]
-(https://github.com/dandar3/android-support-v4/tree/9.4.0)<br/>
+(https://github.com/dandar3/android-support-v4/tree/24.1.1)<br/>
 &#160;&#160;&#160;
 14. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" align="top" />]
 (https://github.com/dandar3/android-support-annotations/archive/24.1.1.zip)
