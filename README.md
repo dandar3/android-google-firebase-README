@@ -239,7 +239,7 @@ Firebase **9.8.0** components available here and libraries you need to take:
 
 - **Install Android 7.1 (API 25) SDK**<br/>
 <br/>
-<img src="https://raw.github.com/wiki/dandar3/android-support-README/Installing Android 7.0 (API 25) SDK.png" />
+<img src="https://raw.github.com/wiki/dandar3/android-support-README/Installing Android 7.1 (API 25) SDK.png" />
  
 - **(YouTube) How to Install Subversive SVN Plug-In in Eclipse - Official Guide**<br/>
 </br>
