@@ -13,7 +13,7 @@ https://firebase.google.com/support/release-notes/android#9.8
 
 --
 
-Firebase 9.8.0 components available here and libraries you need to take:
+Firebase **9.8.0** components available here and libraries you need to take:
 
 #### [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_done_black_24dp.png" title="Project set URL (right-click to copy link location)" align="top" />] (https://raw.githubusercontent.com/dandar3/android-google-firebase-ads/9.8.0/.projectset) &#160;Firebase Ads
 &#160;&#160;&#160;&#160;&#160;&#160;&#160;
