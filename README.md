@@ -8,7 +8,7 @@ https://firebase.google.com/support/release-notes/android#9.8
 
 **Prerequisites**<br/>
 
-- Manual processing of `google-services.json` into `values.xml` and `global_tracker.xml`.<br/>
+- Manual processing of `google-services.json` into `values.xml`.<br/>
   https://firebase.google.com/docs/reference/gradle/#processing_the_json_file
 
 --
