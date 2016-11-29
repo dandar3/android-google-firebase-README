@@ -95,7 +95,8 @@ Firebase **10.0.0** components available here and libraries you need to take:
 (https://github.com/dandar3/android-google-play-services-gass/tree/10.0.0)<br/>
 &#160;&#160;&#160;&#160;&#160;
 12. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" align="top" />]
-(https://github.com/dandar3/android-google-play-services-tasks/archive/10.0.0.zip)
+(https://github.com/dandar3/android-google-play-services
+/archive/10.0.0.zip)
 [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_download_black_24dp.png" title="SVN tag URL (right-click  to copy location)" align="top" />]
 (https://github.com/dandar3/android-google-play-services-tasks/tags/10.0.0)
 [android-google-play-services-tasks]
@@ -182,54 +183,72 @@ Firebase **10.0.0** components available here and libraries you need to take:
 (https://github.com/dandar3/android-google-play-services-basement/tree/10.0.0)<br/>
 &#160;&#160;&#160;&#160;&#160;&#160;&#160;
 6. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" align="top" />]
+(https://github.com/dandar3/android-google-play-services-tagmanager-v4-impl/archive/10.0.0.zip)
+[<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_download_black_24dp.png" title="SVN tag URL (right-click  to copy location)" align="top" />]
+(https://github.com/dandar3/android-google-play-services-tagmanager-v4-impl/tags/10.0.0)
+[android-google-play-services-tagmanager-v4-impl]
+(https://github.com/dandar3/android-google-play-services-tagmanager-v4-impl/tree/10.0.0)<br/>
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+7. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" align="top" />]
 (https://github.com/dandar3/android-google-play-services-tasks/archive/10.0.0.zip)
 [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_download_black_24dp.png" title="SVN tag URL (right-click  to copy location)" align="top" />]
 (https://github.com/dandar3/android-google-play-services-tasks/tags/10.0.0)
 [android-google-play-services-tasks] 
 (https://github.com/dandar3/android-google-play-services-tasks/tree/10.0.0)<br/>
 &#160;&#160;&#160;&#160;&#160;&#160;&#160;
-7. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" title="Library project ZIP (click to download)" align="top" />]
+8. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" title="Library project ZIP (click to download)" align="top" />]
 (https://github.com/dandar3/android-support-v4/archive/25.0.1.zip)
 [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_download_black_24dp.png" title="SVN checkout URL (right-click to copy link location)" align="top" />]
 (https://github.com/dandar3/android-support-v4/tags/25.0.1)
 [android-support-v4](https://github.com/dandar3/android-support-v4/tree/25.0.1)<br/>
 &#160;&#160;&#160;&#160;&#160;&#160;&#160;
-8. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" title="Library project ZIP (click to download)" align="top" />]
+9. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" title="Library project ZIP (click to download)" align="top" />]
 (https://github.com/dandar3/android-support-annotations/archive/25.0.1.zip)
 [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_download_black_24dp.png" title="SVN checkout URL (right-click to copy link location)" align="top" />]
 (https://github.com/dandar3/android-support-annotations/tags/25.0.1)
 [android-support-annotations]
 (https://github.com/dandar3/android-support-annotations/tree/25.0.1)<br/>
-&#160;&#160;&#160;&#160;&#160;&#160;&#160;
-9. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" title="Library android-support-compat ZIP (click to download)" align="top" />]
+&#160;&#160;&#160;&#160;&#160;
+10. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" title="Library android-support-compat ZIP (click to download)" align="top" />]
 (https://github.com/dandar3/android-support-compat/archive/25.0.1.zip)
 [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_download_black_24dp.png" title="SVN checkout URL (right-click to copy link location)" align="top" />]
 (https://github.com/dandar3/android-support-compat/tags/25.0.1)
 [android-support-compat](https://github.com/dandar3/android-support-compat/tree/25.0.1)<br/>
 &#160;&#160;&#160;&#160;&#160;
-10. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" title="Library android-support-core-ui ZIP (click to download)" align="top" />]
+11. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" title="Library android-support-core-ui ZIP (click to download)" align="top" />]
 (https://github.com/dandar3/android-support-core-ui/archive/25.0.1.zip)
 [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_download_black_24dp.png" title="SVN checkout URL (right-click to copy link location)" align="top" />]
 (https://github.com/dandar3/android-support-core-ui/tags/25.0.1)
 [android-support-core-ui](https://github.com/dandar3/android-support-core-ui/tree/25.0.1)<br/>
 &#160;&#160;&#160;&#160;&#160;
-11. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" title="Library android-support-core-utils ZIP (click to download)" align="top" />]
+12. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" title="Library android-support-core-utils ZIP (click to download)" align="top" />]
 (https://github.com/dandar3/android-support-core-utils/archive/25.0.1.zip)
 [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_download_black_24dp.png" title="SVN checkout URL (right-click to copy link location)" align="top" />]
 (https://github.com/dandar3/android-support-core-utils/tags/25.0.1)
 [android-support-core-utils](https://github.com/dandar3/android-support-core-utils/tree/25.0.1)<br/>
 &#160;&#160;&#160;&#160;&#160;
-12. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" title="Library android-support-fragment ZIP (click to download)" align="top" />]
+13. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" title="Library android-support-fragment ZIP (click to download)" align="top" />]
 (https://github.com/dandar3/android-support-fragment/archive/25.0.1.zip)
 [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_download_black_24dp.png" title="SVN checkout URL (right-click to copy link location)" align="top" />]
 (https://github.com/dandar3/android-support-fragment/tags/25.0.1)
 [android-support-fragment](https://github.com/dandar3/android-support-fragment/tree/25.0.1)<br/>
 &#160;&#160;&#160;&#160;&#160;
-13. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" title="Library android-support-media-compat ZIP (click to download)" align="top" />]
+14. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" title="Library android-support-media-compat ZIP (click to download)" align="top" />]
 (https://github.com/dandar3/android-support-media-compat/archive/25.0.1.zip)
 [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_download_black_24dp.png" title="SVN checkout URL (right-click to copy link location)" align="top" />]
 (https://github.com/dandar3/android-support-media-compat/tags/25.0.1)
 [android-support-media-compat](https://github.com/dandar3/android-support-media-compat/tree/25.0.1)<br/>
+
+#### [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_done_black_24dp.png" title="Project set URL (right-click to copy link location)" align="top" />] (https://raw.githubusercontent.com/dandar3/android-google-firebase-messaging/10.0.0/.projectset) &#160;Firebase Cloud Messaging
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+1. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" align="top" />]
+(https://github.com/dandar3/android-google-firebase-messaging/archive/10.0.0.zip)
+[<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_download_black_24dp.png" title="SVN tag URL (right-click  to copy location)" align="top" />]
+(https://github.com/dandar3/android-google-firebase-messaging/tags/10.0.0)
+[android-google-firebase-messaging]
+(https://github.com/dandar3/android-google-firebase-messaging/tree/10.0.0)<br/>
+
+
 
 ### Guides
  
