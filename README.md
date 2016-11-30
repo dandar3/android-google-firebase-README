@@ -4,6 +4,9 @@ https://firebase.google.com/docs/android/setup
 **Google Firebase - Release Notes**<br/>
 https://firebase.google.com/support/release-notes/android#10.0
 
+**Eclipse: How to integrate Firebase Analytics into your app**<br/>
+http://dandar3.blogspot.com/2016/11/eclipse-integrate-firebase-analytics.html
+
 --
 
 **Prerequisites**<br/>
