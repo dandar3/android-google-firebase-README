@@ -6,8 +6,13 @@ https://firebase.google.com/docs/android/setup
 **Google Firebase - Release Notes**<br/>
 https://firebase.google.com/support/release-notes/android#10.0
 
+--
+
 **Eclipse: How to integrate Firebase Analytics into your app**<br/>
 http://dandar3.blogspot.com/2016/11/eclipse-integrate-firebase-analytics.html
+
+**Eclipse: How to integrate Firebase Cloud Messaging into your app**</br>
+http://dandar3.blogspot.ro/2017/01/eclipse-integrating-firebase-messaging.html
 
 --
 
@@ -244,7 +249,7 @@ Firebase **10.0.0** components available here and libraries you need to take:
 (https://github.com/dandar3/android-support-media-compat/tags/25.0.1)
 [android-support-media-compat](https://github.com/dandar3/android-support-media-compat/tree/25.0.1)<br/>
 
-#### [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_done_black_24dp.png" title="Project set URL (right-click to copy link location)" align="top" />] (https://raw.githubusercontent.com/dandar3/android-google-firebase-messaging/10.0.0/.projectset) &#160;Firebase Remote Config
+#### [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_done_black_24dp.png" title="Project set URL (right-click to copy link location)" align="top" />] (https://raw.githubusercontent.com/dandar3/android-google-firebase-messaging/10.0.0/.projectset) &#160;Firebase Cloud Messaging
 &#160;&#160;&#160;&#160;&#160;&#160;&#160;
 1. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" align="top" />]
 (https://github.com/dandar3/android-google-firebase-messaging/archive/10.0.0.zip)
@@ -324,7 +329,7 @@ Firebase **10.0.0** components available here and libraries you need to take:
 (https://github.com/dandar3/android-support-media-compat/tags/25.0.1)
 [android-support-media-compat](https://github.com/dandar3/android-support-media-compat/tree/25.0.1)<br/>
 
-#### [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_done_black_24dp.png" title="Project set URL (right-click to copy link location)" align="top" />] (https://raw.githubusercontent.com/dandar3/android-google-firebase-config/10.0.0/.projectset) &#160;Firebase Cloud Messaging
+#### [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_cloud_done_black_24dp.png" title="Project set URL (right-click to copy link location)" align="top" />] (https://raw.githubusercontent.com/dandar3/android-google-firebase-config/10.0.0/.projectset) &#160;Firebase Remote Config
 &#160;&#160;&#160;&#160;&#160;&#160;&#160;
 1. [<img src="https://github.com/google/material-design-icons/blob/master/file/1x_web/ic_file_download_black_24dp.png" align="top" />]
 (https://github.com/dandar3/android-google-firebase-config/archive/10.0.0.zip)
