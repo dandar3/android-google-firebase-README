@@ -12,7 +12,7 @@ https://firebase.google.com/support/release-notes/android#10.0
 http://dandar3.blogspot.com/2016/11/eclipse-integrate-firebase-analytics.html
 
 **Eclipse: How to integrate Firebase Cloud Messaging into your app**</br>
-http://dandar3.blogspot.ro/2017/01/eclipse-integrating-firebase-messaging.html
+http://dandar3.blogspot.com/2017/01/eclipse-integrating-firebase-messaging.html
 
 --
 
