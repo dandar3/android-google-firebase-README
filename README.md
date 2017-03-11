@@ -6,7 +6,7 @@ https://firebase.google.com/docs/android/setup
 **Google Firebase - Release Notes**<br/>
 https://firebase.google.com/support/release-notes/android#20170215
 
-**Important reminder**
+**Important reminder**<br/>
 https://plus.google.com/+AndroidDevelopers/posts/dmupRXNs6Tm
 
 --
