@@ -4,7 +4,7 @@
 https://firebase.google.com/docs/android/setup
 
 **Release Notes**<br/>
-https://firebase.google.com/support/release-notes/android#20171218
+https://firebase.google.com/support/release-notes/android#sdk_version_1200_march_20_2018
 
 **Important reminder**<br/>
 https://plus.google.com/+AndroidDevelopers/posts/dmupRXNs6Tm
@@ -31,17 +31,17 @@ http://dandar3.blogspot.com/2017/01/eclipse-integrating-firebase-messaging.html
 
 ---
 
-Firebase **11.8.0** components available here and libraries you need to take:
+Firebase **12.0.0** components available here and libraries you need to take:
 
 | Service           | Project |
 | ---               | --- |
-| AdMob             | [<img src="https://goo.gl/1VmF4W" title="Project set URL" />](https://raw.githubusercontent.com/dandar3/android-google-firebase-ads/11.8.0/.projectset)            [android-google-firebase-ads](https://github.com/dandar3/android-google-firebase-ads/tree/11.8.0)              |
-| Analytics         | [<img src="https://goo.gl/1VmF4W" title="Project set URL" />](https://raw.githubusercontent.com/dandar3/android-google-firebase-analytics/11.8.0/.projectset)      [android-google-firebase-analytics](https://github.com/dandar3/android-google-firebase-analytics/tree/11.8.0)  |
-| Authentication    | [<img src="https://goo.gl/1VmF4W" title="Project set URL" />](https://raw.githubusercontent.com/dandar3/android-google-firebase-auth/11.8.0/.projectset)           [android-google-firebase-auth](https://github.com/dandar3/android-google-firebase-auth/tree/11.8.0)            |
-| Cloud Messaging   | [<img src="https://goo.gl/1VmF4W" title="Project set URL" />](https://raw.githubusercontent.com/dandar3/android-google-firebase-messaging/11.8.0/.projectset)      [android-google-firebase-messaging](https://github.com/dandar3/android-google-firebase-messaging/tree/11.8.0)  |
-| Crash Reporting   | [<img src="https://goo.gl/1VmF4W" title="Project set URL" />](https://raw.githubusercontent.com/dandar3/android-google-firebase-crash/11.8.0/.projectset)          [android-google-firebase-crash](https://github.com/dandar3/android-google-firebase-crash/tree/11.8.0)          |
-| Realtime Database | [<img src="https://goo.gl/1VmF4W" title="Project set URL" />](https://raw.githubusercontent.com/dandar3/android-google-firebase-database/11.8.0/.projectset)       [android-google-firebase-database](https://github.com/dandar3/android-google-firebase-database/tree/11.8.0)    |
-| Remote Config     | [<img src="https://goo.gl/1VmF4W" title="Project set URL" />](https://raw.githubusercontent.com/dandar3/android-google-firebase-config/11.8.0/.projectset)         [android-google-firebase-config](https://github.com/dandar3/android-google-firebase-config/tree/11.8.0)        |
+| AdMob             | [<img src="https://goo.gl/1VmF4W" title="Project set" align="top" />](https://raw.githubusercontent.com/dandar3/android-google-firebase-ads/12.0.0/.projectset)            [android-google-firebase-ads](https://github.com/dandar3/android-google-firebase-ads/tree/12.0.0)              |
+| Analytics         | [<img src="https://goo.gl/1VmF4W" title="Project set" align="top" />](https://raw.githubusercontent.com/dandar3/android-google-firebase-analytics/12.0.0/.projectset)      [android-google-firebase-analytics](https://github.com/dandar3/android-google-firebase-analytics/tree/12.0.0)  |
+| Authentication    | [<img src="https://goo.gl/1VmF4W" title="Project set" align="top" />](https://raw.githubusercontent.com/dandar3/android-google-firebase-auth/12.0.0/.projectset)           [android-google-firebase-auth](https://github.com/dandar3/android-google-firebase-auth/tree/12.0.0)            |
+| Cloud Messaging   | [<img src="https://goo.gl/1VmF4W" title="Project set" align="top" />](https://raw.githubusercontent.com/dandar3/android-google-firebase-messaging/12.0.0/.projectset)      [android-google-firebase-messaging](https://github.com/dandar3/android-google-firebase-messaging/tree/12.0.0)  |
+| Crash Reporting   | [<img src="https://goo.gl/1VmF4W" title="Project set" align="top" />](https://raw.githubusercontent.com/dandar3/android-google-firebase-crash/12.0.0/.projectset)          [android-google-firebase-crash](https://github.com/dandar3/android-google-firebase-crash/tree/12.0.0)          |
+| Realtime Database | [<img src="https://goo.gl/1VmF4W" title="Project set" align="top" />](https://raw.githubusercontent.com/dandar3/android-google-firebase-database/12.0.0/.projectset)       [android-google-firebase-database](https://github.com/dandar3/android-google-firebase-database/tree/12.0.0)    |
+| Remote Config     | [<img src="https://goo.gl/1VmF4W" title="Project set" align="top" />](https://raw.githubusercontent.com/dandar3/android-google-firebase-config/12.0.0/.projectset)         [android-google-firebase-config](https://github.com/dandar3/android-google-firebase-config/tree/12.0.0)        |
 
 ---
 
