@@ -47,8 +47,8 @@ Firebase **15.0.0** components available here and libraries you need to take:
 
 ### Guides
  
-#### (YouTube) How to Install Subversive SVN Plug-In in Eclipse - Official Guide
-<a href="http://www.youtube.com/watch?v=04L4rkykWZw" target="_blank"><img src="http://img.youtube.com/vi/04L4rkykWZw/0.jpg" /></a>
+#### 1. (Blogger) How to install Eclipse Subversive (SVN) plugin
+<a href="https://dandar3.blogspot.com/2019/12/eclipse-subversive-svn-plugin.html" target="_blank">https://dandar3.blogspot.com/2019/12/eclipse-subversive-svn-plugin.html</a>
 
-#### (YouTube) How to import Android libraries into your Eclipse workspace
+#### 2. (YouTube) How to import Android libraries into your Eclipse workspace
 <a href="http://www.youtube.com/watch?v=ytRSnjp56tA" target="_blank"><img src="http://img.youtube.com/vi/ytRSnjp56tA/0.jpg" /></a>
