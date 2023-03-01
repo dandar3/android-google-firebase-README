@@ -31,7 +31,7 @@ http://dandar3.blogspot.com/2017/01/eclipse-integrating-firebase-messaging.html
 
 ---
 
-Firebase **15.0.0** components available here and libraries you need to take:
+Firebase components available here and libraries you need to take:
 
 | Service           | Version | Library  |
 | ---               | ---     | --- |
