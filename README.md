@@ -35,7 +35,7 @@ Firebase **15.0.0** components available here and libraries you need to take:
 
 | Service           | Version | Library  |
 | ---               | ---     | --- |
-| AdMob             | 15.0.0  | [<img src="https://bit.ly/3qHag0x" title="Project set" align="top" />](https://raw.githubusercontent.com/dandar3/android-google-firebase-ads/15.0.0/.projectset)            [android-google-firebase-ads](https://github.com/dandar3/android-google-firebase-ads/tree/15.0.0)              |
+| AdMob             | 21.5.0  | [<img src="https://bit.ly/3qHag0x" title="Project set" align="top" />](https://raw.githubusercontent.com/dandar3/android-google-firebase-ads/21.5.0/.projectset)            [android-google-firebase-ads](https://github.com/dandar3/android-google-firebase-ads/tree/21.5.0)              |
 | Analytics         | 21.2.0  | [<img src="https://bit.ly/3qHag0x" title="Project set" align="top" />](https://raw.githubusercontent.com/dandar3/android-google-firebase-analytics/15.0.0/.projectset)      [android-google-firebase-analytics](https://github.com/dandar3/android-google-firebase-analytics/tree/15.0.0)  |
 | Authentication    | 15.0.0  | [<img src="https://bit.ly/3qHag0x" title="Project set" align="top" />](https://raw.githubusercontent.com/dandar3/android-google-firebase-auth/15.0.0/.projectset)           [android-google-firebase-auth](https://github.com/dandar3/android-google-firebase-auth/tree/15.0.0)            |
 | Cloud Messaging   | 15.0.0  | [<img src="https://bit.ly/3qHag0x" title="Project set" align="top" />](https://raw.githubusercontent.com/dandar3/android-google-firebase-messaging/15.0.0/.projectset)      [android-google-firebase-messaging](https://github.com/dandar3/android-google-firebase-messaging/tree/15.0.0)  |
